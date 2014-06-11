@@ -1,6 +1,6 @@
 // example.js
-var express = require(__dirname + "express");
-var logfmt = require(__dirname + "logfmt");
+var express = require("express");
+var logfmt = require("logfmt");
 var app = express();
 
 app.use(logfmt.requestLogger());
