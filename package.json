@@ -1,0 +1,19 @@
+{
+  "name": "nodejstest",
+  "version": "0.0.0",
+  "description": "test app",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oposit/nodejstest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oposit/nodejstest/issues"
+  },
+  "homepage": "https://github.com/oposit/nodejstest"
+}
